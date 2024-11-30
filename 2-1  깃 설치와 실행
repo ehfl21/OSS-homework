@@ -1,0 +1,138 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "collapsed_sections": [
+        "MJdyQzgUjJ3x",
+        "TIVIeXjBlntz",
+        "RSDltRaQnOjM"
+      ],
+      "authorship_tag": "ABX9TyP51nZzzJpH8QD4LMRBqUv/",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ehfl21/OSS-homework/blob/main/2-1%20%20%EA%B9%83%20%EC%84%A4%EC%B9%98%EC%99%80%20%EC%8B%A4%ED%96%89\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#깃 설치와 실행"
+      ],
+      "metadata": {
+        "id": "9KeIqIPBi2oP"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## 깃 홈페이지와 다운로드\n"
+      ],
+      "metadata": {
+        "id": "MJdyQzgUjJ3x"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### 홈페이지:  https://git-scm.com/\n",
+        "##### 다운로드: https://git-scm.com/downloads\n",
+        "\n",
+        "\n",
+        "### 오픈소스 소프트웨어 OSS 주소: https://github.com/git/git\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "YUbOSpszjVX_"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## 깃 설치\n"
+      ],
+      "metadata": {
+        "id": "TIVIeXjBlntz"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### 편집기 설정\n",
+        "#### Visual Studio code로 설정\n",
+        "\n",
+        "### 새 저장소의 기본 브랜치 이름 설정\n",
+        "####$ git config --global init.defaultBranch main\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "IdVRyIjBlsMg"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## CUL 인터페이스"
+      ],
+      "metadata": {
+        "id": "RSDltRaQnOjM"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "###리눅스 명령어\n",
+        "#### $ pwd\n",
+        "\n",
+        "#### $ls -al\n"
+      ],
+      "metadata": {
+        "id": "bWygOJVznTtk"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "##코드"
+      ],
+      "metadata": {
+        "id": "c9IZiGBHmxkG"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### 버전 확인\n",
+        "#### $ git version\n",
+        "\n",
+        "### 설정 확인\n",
+        "#### $ git config\n",
+        "\n",
+        "### 도움\n",
+        "#### $ git --help"
+      ],
+      "metadata": {
+        "id": "NayxRfbUm27O"
+      }
+    }
+  ]
+}
